@@ -10,6 +10,7 @@ namespace TeamPowered
     {
         static void Main(string[] args)
         {
+            // just a comment for testing
         }
     }
 }
